@@ -7,3 +7,7 @@
 - [Cebulowa](/recipes/cebulowa.md)
 - [Porowa](/recipes/porowa.md)
 - [Warzywna](/recipes/warzywna.md)
+
+## Słodkości
+
+- [Ptysie](/recipes/ptysie.md)
