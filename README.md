@@ -1,6 +1,6 @@
 # Przepisy
 
-## Zupy
+## Zupy od babci Marysi
 
 - [Rosół](/recipes/rosol.md)
 - [Krupnik](/recipes/krupnik.md)
@@ -10,4 +10,8 @@
 
 ## Słodkości
 
-- [Ptysie](/recipes/ptysie.md)
+- [Ptysie wujka Andrzeja](/recipes/ptysie.md)
+
+## Inne
+
+- [Sos czosnkowy mamy Pawła](/recipes/sos_czosnkowy.md)
