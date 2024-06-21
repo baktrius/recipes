@@ -10,7 +10,8 @@
 
 ## Słodkości
 
-- [Ptysie wujka Andrzeja](/recipes/ptysie.md)
+- [Krem do ptysi wujka Andrzeja](/recipes/ptysie.md)
+- [Ciasteczka twarogowe babci Marysi](/recipes/ciasteczka_twarogowe.md)
 
 ## Inne
 
