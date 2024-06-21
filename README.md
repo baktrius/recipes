@@ -8,6 +8,10 @@
 - [Porowa](/recipes/porowa.md)
 - [Warzywna](/recipes/warzywna.md)
 
+## Drugie dania
+
+- [Pierogi ruskie babci Marysi](/recipes/pierogi_ruskie.md)
+
 ## Słodkości
 
 - [Krem do ptysi wujka Andrzeja](/recipes/ptysie.md)
