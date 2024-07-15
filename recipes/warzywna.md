@@ -9,6 +9,12 @@
 - 4-5 ziemniaków
 - 1/4 kapusty
 
+### Nie warzywa
+
+- trochę śmietany
+- mąka
+- masło
+
 ### Opcjonalnie
 
 - brokuł
@@ -21,5 +27,5 @@
 
 ## Przygotowanie
 
-1. Składniki kroić, obierać i dodawać do gotującej się wody w powyższej kolejności.
+1. Warzywa kroić, obierać i dodawać do gotującej się wody w powyższej kolejności.
 1. Na koniec dodać śmietanę z mąką i trochę masła.
