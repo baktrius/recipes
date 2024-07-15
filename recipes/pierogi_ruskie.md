@@ -6,7 +6,7 @@
 
 - 0.5 kg mąki (3.5 szklanki)
 - duża szczypta soli
-- 1.25 szklanki gorącej soli
+- 1.25 szklanki gorącej wody
 - 2 łyżki oleju
 
 Półtorej porcji cista odpowiada 1 porcji farszu
