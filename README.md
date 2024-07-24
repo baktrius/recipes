@@ -11,6 +11,7 @@
 ## Drugie dania
 
 - [Pierogi ruskie babci Marysi](/recipes/pierogi_ruskie.md)
+- [Dewolaje babci Agnieszki](/recipes/dewolaje.md)
 
 ## Słodkości
 
